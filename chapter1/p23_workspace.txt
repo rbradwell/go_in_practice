@@ -1,0 +1,6 @@
+// the go toolchain expects code to be in a workspace
+// workspace is a directory heirarchy with src. pkg and bin directories
+// GOPATH environment variable points to base directory of workspace.package chapter1
+
+// when you run go install on a proejct, executables compile to bin in workspace
+
